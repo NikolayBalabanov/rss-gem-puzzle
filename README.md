@@ -1,5 +1,5 @@
 # rss-gem-puzzle
-15 puzzle. JS, HTML5, SCSS, Webpack,
+15 puzzle. JS, HTML5, SCSS, Webpack.
 
 ### Game rules
 
@@ -8,3 +8,4 @@
 ## [Deploy link](https://nikolaybalabanov.github.io/rss-gem-puzzle/)
 
 ## [RSSchool task link](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/stage-1/dom-api/codejam-the-gem-puzzle.md)
+
